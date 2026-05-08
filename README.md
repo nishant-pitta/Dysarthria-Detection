@@ -285,4 +285,4 @@ The person is likely to be healthy.
 
 ## License
 
-This project is for educational and research purposes. Add a formal license file before public release.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
